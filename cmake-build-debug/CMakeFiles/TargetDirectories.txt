@@ -1,0 +1,3 @@
+/home/immir/Dev/C or C++/C++/SQL_CSV/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/immir/Dev/C or C++/C++/SQL_CSV/cmake-build-debug/CMakeFiles/SQL_CSV.dir
+/home/immir/Dev/C or C++/C++/SQL_CSV/cmake-build-debug/CMakeFiles/edit_cache.dir

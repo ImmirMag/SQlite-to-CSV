@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SQL_CSV"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/immir/Dev/C or C++/C++/SQL_CSV/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/immir/Dev/C\ or\ C++/C++/SQL_CSV/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/immir/Dev/C\ or\ C++/C++/SQL_CSV/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/immir/Dev/C\ or\ C++/C++/SQL_CSV/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/immir/Dev/C\ or\ C++/C++/SQL_CSV/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/immir/Dev/C or C++/C++/SQL_CSV/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/immir/Dev/C\ or\ C++/C++/SQL_CSV/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/immir/Dev/C\ or\ C++/C++/SQL_CSV/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/immir/Dev/C\ or\ C++/C++/SQL_CSV/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/immir/Dev/C\ or\ C++/C++/SQL_CSV/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SQL_CSV">
+				<Option output="/home/immir/Dev/C or C++/C++/SQL_CSV/cmake-build-debug/SQL_CSV" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/immir/Dev/C or C++/C++/SQL_CSV/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DPOCO_NO_AUTOMATIC_LIBS"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/immir/Dev/C\ or\ C++/C++/SQL_CSV/cmake-build-debug/Makefile&quot;  VERBOSE=1 SQL_CSV"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/immir/Dev/C\ or\ C++/C++/SQL_CSV/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/immir/Dev/C\ or\ C++/C++/SQL_CSV/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/immir/Dev/C\ or\ C++/C++/SQL_CSV/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SQL_CSV/fast">
+				<Option output="/home/immir/Dev/C or C++/C++/SQL_CSV/cmake-build-debug/SQL_CSV" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/immir/Dev/C or C++/C++/SQL_CSV/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DPOCO_NO_AUTOMATIC_LIBS"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/immir/Dev/C\ or\ C++/C++/SQL_CSV/cmake-build-debug/Makefile&quot;  VERBOSE=1 SQL_CSV/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/immir/Dev/C\ or\ C++/C++/SQL_CSV/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/immir/Dev/C\ or\ C++/C++/SQL_CSV/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/immir/Dev/C\ or\ C++/C++/SQL_CSV/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/immir/Dev/C or C++/C++/SQL_CSV/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/immir/Dev/C\ or\ C++/C++/SQL_CSV/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/immir/Dev/C\ or\ C++/C++/SQL_CSV/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/immir/Dev/C\ or\ C++/C++/SQL_CSV/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/immir/Dev/C\ or\ C++/C++/SQL_CSV/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/main.cpp">
+			<Option target="SQL_CSV"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoCryptoConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoCryptoConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoCryptoTargets-none.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoCryptoTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoDataConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoDataConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoDataSQLiteConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoDataSQLiteConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoDataSQLiteTargets-debug.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoDataSQLiteTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoDataSQLiteTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoDataTargets-debug.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoDataTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoDataTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoFoundationConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoFoundationConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoFoundationTargets-debug.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoFoundationTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoFoundationTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoJSONConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoJSONConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoJSONTargets-debug.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoJSONTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoJSONTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoNetConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoNetConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoNetTargets-debug.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoNetTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoNetTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoUtilConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoUtilConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoUtilTargets-debug.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoUtilTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoUtilTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoXMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoXMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoXMLTargets-debug.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoXMLTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoXMLTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoZipConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoZipConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoZipTargets-debug.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoZipTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+		<Unit filename="/home/immir/Dev/C or C++/C++/SQL_CSV/../../../../../../usr/local/lib/cmake/Poco/PocoZipTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Poco\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
